@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b69d1c7-fc6d-4f37-b130-f93410c3694e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b69d1c7-fc6d-4f37-b130-f93410c3694e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,51 +20,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/Projects/Programming/JavaStreams" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "burrasaitejagoud"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;burrasaitejagoud&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/burrasaitejagoud/JavaStreams.git",
-    "accountId": "488df195-e3df-41ab-8ed1-e8bae1e4361a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/burrasaitejagoud/JavaStreams.git&quot;,
+    &quot;accountId&quot;: &quot;488df195-e3df-41ab-8ed1-e8bae1e4361a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yGOG7RQZFzKPgtNam9fQRCSssA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CreateAListFromStringsContainsOnlyIntegers.executor": "Run",
-    "Application.DivideIntegerListIntoEvenandOdd.executor": "Run",
-    "Application.FindOccurencesofEachCharacterInWord.executor": "Run",
-    "Application.FindSecondHighestLengthOfAWordInASentence.executor": "Run",
-    "Application.FindTheSumOfUniqueElements.executor": "Run",
-    "Application.FindWordsWithSpecifiedNumberofVowels.executor": "Run",
-    "Application.FirstNonRepeatedCharacter.executor": "Run",
-    "Application.FirstRepeatedCharacter.executor": "Run",
-    "Application.GivenSentenceFindOccurenceOfEachWord.executor": "Run",
-    "Application.GroupingTheNumbersByRangeTheyBelong.executor": "Run",
-    "Application.ProductOfFirstTwoElementsFromAnArray.executor": "Run",
-    "Application.RearrangeElementsToFormHighestorLowest.executor": "Run",
-    "Application.RemoveDuplicatesFromStringAndReturnSameOrder.executor": "Run",
-    "Application.WordWithHighestLength.executor": "Run",
-    "Application.WordWithSecondHighestLength.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Saiteja/Downloads/JavaStreams/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CreateAListFromStringsContainsOnlyIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideIntegerListIntoEvenandOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindOccurencesofEachCharacterInWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSecondHighestLengthOfAWordInASentence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheSumOfUniqueElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindWordsWithSpecifiedNumberofVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatedCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatedCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GivenSentenceFindOccurenceOfEachWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupingTheNumbersByRangeTheyBelong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfFirstTwoElementsFromAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RearrangeElementsToFormHighestorLowest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromStringAndReturnSameOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordWithHighestLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordWithSecondHighestLength.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saiteja/Downloads/JavaStreams/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Saiteja\Desktop\Projects\Programming" />
